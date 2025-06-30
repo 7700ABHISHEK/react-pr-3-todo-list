@@ -147,7 +147,7 @@ const TodoList = () => {
                     </div>
                 ) : (
                     <div className="flex justify-center my-10">
-                        <img src="/public/not-any-task.png" alt="No Task Found" className="h-96" />
+                        <img src="/not-any-task.png" alt="No Task Found" className="h-96" />
                     </div>
                 )}
             </div>
